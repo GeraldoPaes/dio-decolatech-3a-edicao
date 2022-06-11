@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <title>Meu primeiro Site em PHP!</title>
+        <title>Meu Primeiro Site em PHP</title>
     </head>
 
     <body>
