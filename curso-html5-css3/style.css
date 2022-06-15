@@ -1,0 +1,66 @@
+body {
+    background: #f6f6f6;
+    font-family: Georgia;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#top-img {
+    display: block;
+    border: 2px solid #202020;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#title, #subtitle, .song-title, .lyrics {
+    color: #202020;
+    text-align: center;
+}
+
+#title {
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+#subtitle {
+    font-size: 23px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.song-title {
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.song {
+    background: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #202020;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.song-cover {
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    border-radius: 50%;
+}
+
+.lyrics {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.link-list {
+    list-style-type: square;
+}
