@@ -6,3 +6,4 @@ Repositório para colocar os projetos do Decola Tech 3ª Edição da DIO.
 - Atividade Prática do Curso "Introdução a criação de sites com HTML5 e CSS3". ☑
 - Atividades Práticas do Curso "Introdução ao Javascript". ☑
 - Calculadora do Curso "Sintaxe Básica em JavaScript". ☑
+- Atividade Prática do Curso "Sintaxe e Operadores". ☑
